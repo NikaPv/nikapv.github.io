@@ -1,10 +1,10 @@
-![header](https://vercel.app)
+# Вероника Пелевина
 ### IT Recruiter 🚀
 
 **Контакты:**
-* 🔗 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/veronika-p-b70416207/)
-* 📱 [![Telegram](https://shields.io)](@n_uika)
-* 📧 [![Email](https://shields.io)](nikapelevina@gmail.com)
+* 🔗 **LinkedIn:** (https://www.linkedin.com/in/veronika-p-b70416207/)
+* 📱 **Telegram:** (https://shields.io)](@n_uika)
+* 📧 **Email:** (nikapelevina@gmail.com)
 
 ---
 
