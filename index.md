@@ -1,6 +1,3 @@
-# Вероника Пелевина
-### IT Recruiter 🚀
-
 **Контакты:**
 * 🔗 **LinkedIn:** [veronika-p](https://www.linkedin.com/in/veronika-p-b70416207/)
 * 📱 **Telegram:** [@n_uika](https://shields.io)
