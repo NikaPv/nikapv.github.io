@@ -2,9 +2,13 @@
 ### IT Recruiter 🚀
 
 **Контакты:**
-* 🔗 **LinkedIn:** (https://www.linkedin.com/in/veronika-p-b70416207/)
-* 📱 **Telegram:** (https://shields.io)](@n_uika)
-* 📧 **Email:** (nikapelevina@gmail.com)
+* 🔗 **LinkedIn:** [veronika-p](https://www.linkedin.com/in/veronika-p-b70416207/)
+* 📱 **Telegram:** [@n_uika](https://shields.io)
+* 📧 **Email:** [nikapelevina@gmail.com](mailto:nikapelevina@gmail.com)
+* 
+* 🔗 **LinkedIn:** ()
+* 📱 **Telegram:** ()]()
+* 📧 **Email:** ()
 
 ---
 
