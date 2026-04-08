@@ -5,10 +5,6 @@
 * 🔗 **LinkedIn:** [veronika-p](https://www.linkedin.com/in/veronika-p-b70416207/)
 * 📱 **Telegram:** [@n_uika](https://shields.io)
 * 📧 **Email:** [nikapelevina@gmail.com](mailto:nikapelevina@gmail.com)
-* 
-* 🔗 **LinkedIn:** ()
-* 📱 **Telegram:** ()]()
-* 📧 **Email:** ()
 
 ---
 
